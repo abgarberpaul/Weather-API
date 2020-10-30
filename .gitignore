@@ -131,3 +131,4 @@ dmypy.json
 #As instructed - 
 .ipynb_checkpoints
 config.py
+api_keys.py
